@@ -1,12 +1,12 @@
 ---
-title: "Paper Title Number 4"
+title: "Submodular Maximization via Taylor Series Approximation"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/sub-max-via-taylor
+excerpt: 'We study submodular maximization problems with matroid constraints, in particular, problems where the objective can be expressed via compositions of analytic and multilinear functions. We show that for functions of this form, the so-called continuous greedy algorithm attains a ratio arbitrarily close to (1 − 1/e) ≈ 0.63 using a deterministic estimation via Taylor series approximation. This drastically reduces execution time over prior art that uses sampling.'
+date: 2021
+venue: '2021 SIAM International Conference on Data Mining (SDM)'
+paperurl: 'http://gozde-ozcan.github.io/files/SubmodularMaximizationViaTaylorSeriesApproximation.pdf'
+citation: 'Özcan, Gözde, Armin Moharrer, and Stratis Ioannidis.(2021). &quot;Submodular Maximization via Taylor Series Approximation.&quot; <i>Proceedings of the 2021 SIAM International Conference on Data Mining (SDM). Society for Industrial and Applied Mathematics, 2021.</i>.
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
