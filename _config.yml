@@ -169,7 +169,7 @@ exclude:
   - log
   - node_modules
   - package.json
-  - tmp
+  - tmp/
   - vendor
 keep_files:
   - .git
