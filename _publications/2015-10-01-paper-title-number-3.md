@@ -12,7 +12,7 @@ learning problem, including the dynamic regret, bandit, and optimistic-learning 
 date: 2024-03-24
 venue: 'AAAI'
 slidesurl: 'http://gozde-ozcan.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/OnlineSubmodularMaximizationViaOnlineConvexOptimization.pdf'
+paperurl: 'http://gozde-ozcan.github.io/files/OnlineSubmodularMaximizationViaOnlineConvexOptimization.pdf'
 citation: 'Si Salem, T., Özcan, G., Nikolaou, I., Terzi, E., & Ioannidis, S. (2024). &quot;Online Submodular Maximization via Online Convex Optimization.&quot; <i>Proceedings of the AAAI Conference on Artificial Intelligence</i>. 38(13).'
 ---
 
