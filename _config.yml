@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Gözde Özcan's Personal Website"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Gözde Özcan"
 description              : &description "personal description"
 url                      : https://gozde-ozcan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
