@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "EEE 211 Teaching Assistant "
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Bilkent University, Department of Electrical and Electronics Engineering"
+date: 2016-09-16
+location: "Ankara, Türkiye"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+- Supervised hands-on Analog Electronics laboratory sessions for 40+ sophomore level students.
 
 Heading 1
 ======
