@@ -11,6 +11,7 @@ combinatorial setting. We show that our reduction extends to many different vers
 learning problem, including the dynamic regret, bandit, and optimistic-learning settings.'
 date: 2024-03-24
 venue: 'AAAI'
+codeurl: 'https://github.com/neu-spiral/OSMviaOCO'
 posterurl: 'http://gozde-ozcan.github.io/files/OnlineSubmodularMaximization_AAAI_2024.pdf'
 paperurl: 'http://gozde-ozcan.github.io/files/OnlineSubmodularMaximizationViaOnlineConvexOptimization.pdf'
 citation: 'Si Salem, T., Özcan, G., Nikolaou, I., Terzi, E., & Ioannidis, S. (2024). &quot;Online Submodular Maximization via Online Convex Optimization.&quot; <i>Proceedings of the AAAI Conference on Artificial Intelligence</i>. 38(13).'
