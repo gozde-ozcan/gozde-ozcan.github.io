@@ -11,48 +11,50 @@ redirect_from:
 
 <div class="wordwrap">You can find a downloadable copy of my resume <a href="{{"http://gozde-ozcan.github.io/files/Gozde_Ozcan_Resume.pdf"}}">here</a>.</div>
 
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electrical Engineering, Northeastern University, 2024 (expected)
+* M.S. in Electrical and Computer Engineering, Northeastern University, 2021
+* B.S. in Electrical and Electronics Engineering, Bilkent University, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* September 2018 - Present: Graduate Research Fellow
+  * Northeastern University
+  * Supervisor: Prof. Stratis Ioannidis
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May - August 2022: Intern Machine Learning Engineer
+  * Meta
+  * Supervisor: Dr. Antonia Gogoglou
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* May - August 2021: Intern Machine Learning Engineer
+  * Facebook
+  * Supervisor: Dr. Chenyang Zhang
+ 
+* September 2017 - June 2018: Senior Year Project Engineer
+  * Eczacıbaşı Holding
+  * Supervisor: Engin Çiçekliyurt
+ 
+* June - September 2017: Intern
+  * Fraunhofer IIS
+  * Supervisor: Torsten Reich
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* PyTorch
+* JAX
+* Tensorflow
+* Spark
+* Pandas
+* SQL
+* MATLAB
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
 Teaching
@@ -61,6 +63,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
