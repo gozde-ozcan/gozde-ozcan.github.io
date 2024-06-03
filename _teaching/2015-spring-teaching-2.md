@@ -1,14 +1,15 @@
 ---
-title: "Teaching experience 2"
+title: "EECE 5645 Teaching Assistant"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+venue: "Northeastern University, Department of Electrical and Computer Engineering"
+date: 2020-09-01
+location: "Boston, United States"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+- Led 1:1 office hours with a focus on PySpark programming for 50+ Master’s level EECE5645 Parallel Processing
+and Data Analytics course students
 
 Heading 1
 ======
