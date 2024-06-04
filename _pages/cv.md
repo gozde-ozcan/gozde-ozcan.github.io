@@ -34,11 +34,9 @@ Work experience
  
 * September 2017 - June 2018: Senior Year Project Engineer
   * Eczacıbaşı Holding
-  * Supervisor: Engin Çiçekliyurt
  
 * June - September 2017: Intern
   * Fraunhofer IIS
-  * Supervisor: Torsten Reich
   
 Skills
 ======
