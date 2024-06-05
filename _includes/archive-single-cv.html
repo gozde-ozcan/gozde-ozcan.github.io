@@ -36,7 +36,13 @@ e{% include base_path %}
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.authors }}<br /><a href="{{ post.venueurl }}">{{ post.venue }}</a> {% if post.codeurl%}| <a href="{{ post.codeurl }}">code</a> {% endif %}|{% if post.slidesurl%} <a href="{{ post.slidesurl }}">slides</a> {% endif %}{% if post.talkurl%}| <a href="{{ post.talkurl }}">talk</a>{% endif %}</p> {% endif %}
+    {% if post.venue and post.slidesurl and post.talkurl %}
+      <p class="archive__item-excerpt" itemprop="description">{{ post.authors }}<br /><a href="{{ post.venueurl }}">{{ post.venue }}</a> | <a href="{{ post.codeurl }}">code</a> | <a href="{{ post.slidesurl }}">slides</a> | <a href="{{ post.talkurl }}">talk</a></p>
+    {% elsif post.venue and post.slidesurl %}
+      <p class="archive__item-excerpt" itemprop="description">{{ post.authors }}<br /><a href="{{ post.venueurl }}">{{ post.venue }}</a> | <a href="{{ post.codeurl }}">code</a> | <a href="{{ post.slidesurl }}">slides</a></p>
+    {% elsif post.venue and post.posterurl %}
+      <p class="archive__item-excerpt" itemprop="description">{{ post.authors }}<br /><a href="{{ post.venueurl }}">{{ post.venue }}</a> | <a href="{{ post.codeurl }}">code</a> | <a href="{{ post.posterurl }}">poster</a></p>
+    {% endif %}
     </li>
  </article>
 </div>
