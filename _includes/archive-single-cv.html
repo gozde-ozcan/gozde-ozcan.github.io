@@ -36,7 +36,7 @@ e{% include base_path %}
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.authors }}<br /><a href="{{ post.paperurl }}">{{ post.venue post.year }}</a> | <a href="{{ post.codeurl }}">code</a> | <a href="{{ post.slidesurl }}">slides</a> | <a href="{{ post.talkurl }}">talk</a></p> {% endif %}
+<!--     {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.authors }}<br /><a href="{{ post.paperurl }}">{{ post.venue post.year }}</a> | <a href="{{ post.codeurl }}">code</a> | <a href="{{ post.slidesurl }}">slides</a> | <a href="{{ post.talkurl }}">talk</a></p> {% endif %} -->
 <!--     {% if post.venue and post.slidesurl and post.talkurl %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.authors }}<br /><a href="{{ post.venueurl }}">{{ post.venue }}</a> | <a href="{{ post.codeurl }}">code</a> | <a href="{{ post.slidesurl }}">slides</a> | <a href="{{ post.talkurl }}">talk</a></p>
     {% elsif post.venue and post.slidesurl %}
