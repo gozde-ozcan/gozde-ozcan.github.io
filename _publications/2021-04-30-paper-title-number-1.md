@@ -9,7 +9,7 @@ codeurl: 'https://github.com/neu-spiral/WDNFFunctions'
 slidesurl: 'http://gozde-ozcan.github.io/files/SDM21Presentation.pdf'
 paperurl: 'http://gozde-ozcan.github.io/files/SubmodularMaximizationViaTaylorSeriesApproximation.pdf'
 talkurl: 'https://youtu.be/2mm-JKYLpH4?si=4BNaJKOQZIGW5SNG'
-authors: 'Özcan, Gözde, Armin Moharrer, and Stratis Ioannidis'
+authors: '<b>Özcan, Gözde</b>, Armin Moharrer, and Stratis Ioannidis'
 citation: 'Özcan, Gözde, Armin Moharrer, and Stratis Ioannidis. (2021). &quot;Submodular Maximization via Taylor Series Approximation.&quot; <i>Proceedings of the 2021 SIAM International Conference on Data Mining (SDM). Society for Industrial and Applied Mathematics, 2021.</i>'
 ---
 
