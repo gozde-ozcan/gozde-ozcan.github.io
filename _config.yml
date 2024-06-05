@@ -21,7 +21,7 @@ repository               : "gozde-ozcan/gozde-ozcan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "gozcan_profile.jpg"
+  avatar           : "gozcan.jpg"
   name             : "Gözde Özcan"
   pronouns         : # example: "she/her"  
   bio              : "Machine Learning Researcher at Northeastern University"
