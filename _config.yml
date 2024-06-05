@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Gözde Özcan's Personal Website"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Gözde Özcan"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "gozcan_profile.jpg"
   name             : "Gözde Özcan"
   pronouns         : # example: "she/her"  
-  bio              : "Machine Learning Researcher"
+  bio              : "Machine Learning Researcher at Northeastern University"
   location         : "Boston, MA, USA"
   employer         : "Northeastern University"
   uri              : # URL
