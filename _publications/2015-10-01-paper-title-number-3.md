@@ -15,7 +15,7 @@ year: '2024'
 codeurl: 'https://github.com/neu-spiral/OSMviaOCO'
 posterurl: 'http://gozde-ozcan.github.io/files/OnlineSubmodularMaximization_AAAI_2024.pdf'
 paperurl: 'http://gozde-ozcan.github.io/files/OnlineSubmodularMaximizationViaOnlineConvexOptimization.pdf'
-authors: 'Si Salem, Tareq, <b>Özcan, Gözde</b>, Nikolaou, Iasonas, Terzi, Evimaria, and Ioannidis, Stratis'
+authors: 'Tareq Si Salem, <b>Gözde Özcan</b>, Iasonas Nikolaou, Evimaria Terzi, and Stratis Ioannidis'
 citation: 'Si Salem, Tareq, Özcan, Gözde, Nikolaou, Iasonas, Terzi, Evimaria, & Ioannidis, Stratis (2024). &quot;Online Submodular Maximization via Online Convex Optimization.&quot; <i>Proceedings of the AAAI Conference on Artificial Intelligence</i>.'
 ---
 
