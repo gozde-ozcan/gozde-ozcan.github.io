@@ -11,6 +11,12 @@ redirect_from:
 
 <div class="wordwrap">You can find a downloadable copy of my resume <a href="{{"http://gozde-ozcan.github.io/files/Gozde_Ozcan_Resume.pdf"}}">here</a>.</div>
 ======
+<embed
+	src="[document.pdf](http://gozde-ozcan.github.io/files/Gozde_Ozcan_Resume.pdf)"
+	type="application/pdf"
+	width="100%"
+	height="100%"
+/>
 
 Education
 ======
