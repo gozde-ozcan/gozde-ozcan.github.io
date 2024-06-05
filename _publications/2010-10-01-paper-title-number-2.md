@@ -9,7 +9,7 @@ year: '2023'
 codeurl: 'https://github.com/neu-spiral/StochSubMax'
 slidesurl: 'http://gozde-ozcan.github.io/files/PAKDD23Presentation.pdf'
 paperurl: 'http://gozde-ozcan.github.io/files/StochasticSubmodularMaximizationViaPolynomialEstimators.pdf'
-authors: '<b>Özcan, Gözde</b>, and Stratis Ioannidis'
+authors: '<b>Gözde Özcan</b>, and Stratis Ioannidis'
 citation: 'Özcan, Gözde, and Stratis Ioannidis. (2023). &quot;Stochastic Submodular Maximization via Polynomial Estimators.&quot; <i>Pacific-Asia Conference on Knowledge Discovery and Data Mining</i>.'
 ---
 
