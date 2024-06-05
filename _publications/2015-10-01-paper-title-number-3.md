@@ -10,8 +10,8 @@ coupled with an appropriate rounding scheme, can be used to achieve sublinear re
 combinatorial setting. We show that our reduction extends to many different versions of the online
 learning problem, including the dynamic regret, bandit, and optimistic-learning settings.'
 date: 2024-03-24
-venue: 'AAAI'
-year: '2024'
+venue: 'AAAI 2024'
+venueurl: 'https://aaai.org/aaai-conference/'
 codeurl: 'https://github.com/neu-spiral/OSMviaOCO'
 posterurl: 'http://gozde-ozcan.github.io/files/OnlineSubmodularMaximization_AAAI_2024.pdf'
 paperurl: 'http://gozde-ozcan.github.io/files/OnlineSubmodularMaximizationViaOnlineConvexOptimization.pdf'
